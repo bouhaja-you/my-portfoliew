@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-portfoliew/static/css/main.fce5c3cc.css",
+    "main.js": "/my-portfoliew/static/js/main.44f9d9cf.js",
+    "static/js/453.515ecba2.chunk.js": "/my-portfoliew/static/js/453.515ecba2.chunk.js",
+    "static/media/1.jpg": "/my-portfoliew/static/media/1.a2cd328c83b99d4cbe62.jpg",
+    "static/media/2.jpg": "/my-portfoliew/static/media/2.0f8714decc9681ef9972.jpg",
+    "static/media/virusware.jpeg": "/my-portfoliew/static/media/virusware.ad50f9150050645a4e6f.jpeg",
+    "index.html": "/my-portfoliew/index.html",
+    "main.fce5c3cc.css.map": "/my-portfoliew/static/css/main.fce5c3cc.css.map",
+    "main.44f9d9cf.js.map": "/my-portfoliew/static/js/main.44f9d9cf.js.map",
+    "453.515ecba2.chunk.js.map": "/my-portfoliew/static/js/453.515ecba2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fce5c3cc.css",
+    "static/js/main.44f9d9cf.js"
+  ]
+}
